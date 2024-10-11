@@ -7,6 +7,11 @@ Repository for book keeping on engineering blog posts categories by topics like 
 - https://developer.squareup.com/blog/sharding-cash/
 - https://vinted.engineering/2023/04/27/vinted-vitess-voyage-chapter-1-autumn-is-coming/
 
+## Microservices Patterns
+### Resiliency Patterns - Ratelimiter
+- https://stripe.com/blog/rate-limiters
+- https://spring.io/blog/2021/04/05/api-rate-limiting-with-spring-cloud-gateway
+
 ## Application Metrics Collection and Monitoring with Kubernetes
 ### Kubernetes, Matrics Server, Fluentd Collector/Prometheus, Grafana
 - https://www.datadoghq.com/blog/monitoring-kubernetes-era/
